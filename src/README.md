@@ -1,5 +1,3 @@
-INSIDE SRC:-
-
 Homework1 - Operators.
 
 Homework2 - loops/Conditions.
